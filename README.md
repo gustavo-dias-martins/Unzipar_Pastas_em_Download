@@ -1,4 +1,4 @@
-<h1> Automatizar o "Unzipe" dos aquivos baixados </h1>
+<h1> Automatizar o "Unzipe" dos arquivos baixados. </h1>
 <p>Quem nunca perdeu tempo tendo que fazer o processo de "unzipar" uma pasta ao baixar o arquivo? E quando são vários arquivos zipados é pior ainda. Temos que entrar um por um, clicar com o botão direito e procurar a opção de "unzipar" e depois excluir a pasta".zip" original.</p> 
 <p>O projeto é um código em Python, desenvolvido no Pycharm para automatizar esse processo chato de "unzipar" os arquivos.</p>
 
