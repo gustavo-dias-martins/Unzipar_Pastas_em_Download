@@ -17,3 +17,7 @@
 <p>- Reiniciar o computador para quando iniciar, o programa já começar a rodar no background.</p>
 
 <p>As vezes precisamos dar um F5 para atualizarmos a pasta quando entrar um arquivo ".zip".</p>
+
+
+https://user-images.githubusercontent.com/104008210/191267454-2f5a9c88-62e2-4d8e-8764-e28435a12b0a.mp4
+
